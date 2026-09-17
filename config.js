@@ -1,0 +1,1 @@
+window.APP_CONFIG={SUPABASE_URL:"https://hmmpckecdmqgvqdcgioj.supabase.co",SUPABASE_PUBLISHABLE_KEY:"sb_publishable_f0iFNHmLjWDoEiPre9g0NQ_Ee2YFzJP",PUBLIC_FUNCTION:"https://hmmpckecdmqgvqdcgioj.supabase.co/functions/v1/cadastro-publico"};
